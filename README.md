@@ -1,0 +1,2 @@
+# insanity
+Compiler insanity tester
